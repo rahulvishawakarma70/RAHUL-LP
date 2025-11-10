@@ -10,7 +10,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // ===== BOT CORE SETTINGS =====
-    SESSION_ID: process.env.SESSION_ID || "",  // Your bot's session ID (keep it secure)
+    SESSION_ID: process.env.SESSION_ID || "JK~H4sIAAAAAAAAA5VUW5OiOBj9L3nVGrkIilVdtQgoaoOIt5atfYgkQJBbJ0HEKf/7Ft3T0/OwO9vLU0hS5zvfOefLd1CUhOEVbsHkO6gouUKOuyVvKwwmYFpHEaagDxDkEEzASo9L2xF3z607ZTUaBNJiRWfReKTEgqweuaVk6vGQtcph/AQefVDV54yEvwHcWqpC6f747DXxxtFXp+weG+GI+oerltp3eWxcT+n9OXHS0xN4dIiQUFLEVpXgHFOYrXDrQUK/Rt+xQ3fFNoZKnl3X99eC+5oJUXBS4SlHwtxYP9euM+BLY3/5Gv383DvvF9pcGkJ7sPPgPVDmV8cLDg4nPOVwY2TTl2G64XH5Tp+RuMBogXDBCW+/rLs63S80Wsv2vWrWLyohUuPa5snae/MqWGMztGEm1jvbzBZfI16L80ILvHHrn1IqnhuFidJQXmdrc6MN5kl2bPKgEetB6ze/EvfoR1Yu/0f3eKkjXVzuJOdmHFdSrSVqFag9fTvy1eW2pzizaiyYssXF4dfoj3s0H7He0K0P+vg6ay7IduPmMr/eto0oSyfG6LOe1YPT8fRJH/Ka/o4l9YwjW8CAJqPzZoC0uJgNgqmahz0vn7nD8ywSxnf+Yt/jceA6sq1sx7u7URX21TDO855uvkjmZQ0vPSXWbJSWPaRMp83TW0cX3C4QmIiPPqA4JoxTyElZdHuSPOoDiK5bHFLM3+QFNp4JScjiyLDQLFniMYQwjZpK8r1osF4mCA3MatMOvV35BPqgomWIGcPIJoyXtHUwYzDGDEz+/KsPCnzj78Z15WSxDyJCGd8XdZWVEH24+nEIw7CsC75ti9DoFpiCifC5jTknRcw6HesC0jAhV2wkkDMwiWDG8M8OMcUITDit8c+pNUrUCb+ydXdnGTbog/zNEILABGjiSBBHqqKJ0nAykv9g35oOFlbVtwJz0AfZ2zVRE8eKJKuypqjSSO1udgePnww7QIQ5JBkDE2A4W7FxLNvyeuMbi+dzfRHrRqyDz44+ovEu/VG7RahOXu/blS9kgn+3bNPT7FMvj1btmvu7+XgnGBWJj87TP4CACdg0Zbx+XblGUEtxu9sEm3a4EmNxcTFNK5/pm4OvtHO/yS8LOFvLoxd3z3rDaVQwGWHfZHYQaDlK8sPwNU1ishZ3B6xvnrpqCF9JiH8tdleIOlhmvlpeZ3Mrimd1zYzd/VzGfugPUllx5GUkXdPT1mSrRZqbHixelFB2SjSfwvsuEa3MOQsD4aypJyuIUq3gb8U+hib78ViRtzh1XnW/EcFvs1/AzsH/9u6deBcx4dH/BePHa/IvEzk9XMMX+VxCJpALWiIrvE2b+8CXvKpoWUr3+9vV0vTXUzlLwePxVx9UGeRRSXMwAbBAtCQI9AEt6y6ziyIqf1PM0BcLQ4/drvMMMq5/zsGO5JhxmFdgIo661EnySHq/5dGysiFLOoBhtHS7TLd6VW055B9TBfTuM0MdPP4GKVbbJHEHAAA=",  // Your bot's session ID (keep it secure)
     XDEV: process.env.XDEV || "",  // Github Username 
     PREFIX: getConfig("PREFIX") || ".",  // Command prefix (e.g., "., / ! * - +")
     CHATBOT: getConfig("CHATBOT") || "off", // on/off chat bot 
@@ -20,7 +20,7 @@ module.exports = {
     BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",  // Bot's BAILEYS
 
     // ===== OWNER & DEVELOPER SETTINGS =====
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "923427582273",  // Owner's WhatsApp number
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "917017659124",  // Owner's WhatsApp number
     OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "Panchal TᴇᴄʜX",           // Owner's name
     DEV: process.env.DEV || "917017659124",                     // Developer's contact number
     DEVELOPER_NUMBER: '917017659124@s.whatsapp.net',            // Developer's WhatsApp ID
