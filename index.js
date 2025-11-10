@@ -4,8 +4,8 @@
 
 // KHAN-MD version 5.0 ❤️
 
-// Thanks For Chosing KHAN MD 🔥
+// Thanks For Chosing RAHUL LP🔥
 
 // Made with ♥️ By JawadTechX
 
-// Powered By JawadTechX KHAN-MD 2025 🚀
+// Powered By PanchalTechX RAHUL-LP 2025 🚀
